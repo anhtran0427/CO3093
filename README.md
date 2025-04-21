@@ -22,5 +22,5 @@ This way requires manually path input (for choosing torrent, and for choosing do
 ## Features
 - Share and download file or folder (contains many files) via .torrent file
 - Get scrape info about any .torrent file
-## Notes
-Currently the app can only run on localhost, or between peer within a machine with TrackerServer hosted in another machine. The reason are firewall rules, haven't figured out how to bypass them to make peers from different networks can communicate.
+## Contributes
+Source code is modified from Assignment project at this [link](https://github.com/khoalva/CO3093-P2P-File-Transfer)
