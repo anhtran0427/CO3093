@@ -18,9 +18,9 @@ python TrackerServer.py
 ```bash
 python app.py
 ```
-This way requires manually path input (for choosing torrent, and for choosing download location)
+
 ## Features
 - Share and download file or folder (contains many files) via .torrent file
 - Get scrape info about any .torrent file
 ## Contributes
-Source code is modified from Assignment project at this [link](https://github.com/khoalva/CO3093-P2P-File-Transfer)
+Source code is modified from Assignment project of Lê Văn Anh Khoa and Võ Thanh Tâm at this [link](https://github.com/khoalva/CO3093-P2P-File-Transfer)
